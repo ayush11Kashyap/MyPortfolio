@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "suniltechtips-ec3bb": {
+      "hosting": {
+        "portfolio": [
+          "suniltechtips-ec3bb"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "suniltechtips-ec3bb"
+  }
+}
